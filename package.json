@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tact-1.1.0": "npm:@tact-lang/compiler@^1.1.0-beta.26",
+    "tact-1.0.0": "npm:@tact-lang/compiler@^1.0.0"
+  }
+}
